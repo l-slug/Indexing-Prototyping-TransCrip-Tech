@@ -19,6 +19,7 @@ Sound: Year, Context, Author(s)
 
 Questions to answer about each entry:  
 What makes this a technology?  
+How does technology become defined with this artefact in mind?  
 What is problematic about this as a technology?  
 What relationship does it have to disability?  
 What relationship does it have to trans/queer experience?  
