@@ -25,5 +25,6 @@ What can this technology do?
 What does this technology interrupt?  
 What questions do you have for this technology?  
 What gratitude do you feel about this technology?  
+What timeline does this technology engage with, challenge or re-route?
 
 
