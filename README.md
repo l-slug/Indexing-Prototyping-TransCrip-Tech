@@ -12,10 +12,11 @@ In this repository we share trans*crip technoscientific technologies so that we 
 Here we are indexing technologies that already exist, but might not yet be called technologies, towards making our lives plural, joyful, sustainable and full of connection and possibility.
 
 How to Name Files:  
-Article: YEAR, Context, Author(s)  
-Image: YEAR, Context, Author(s)  
-Video: YEAR, Context, Author(s)  
-Sound: Year, Context, Author(s)
+Article: Year, Context, Author(s)  
+Image: Year, Context, Author(s)  
+Video: Year, Context, Author(s)  
+Sound: Year, Context, Author(s)  
+Artefact: Year, Context, Maker/Author(s)
 
 Questions to answer about each entry:  
 What makes this a technology?  
